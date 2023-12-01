@@ -1,0 +1,7 @@
+Hola, mi nombre es Fernando Saucedo. Éste es mi primer proyecto en codigo.
+Es un meme interactivo!
+Utilicé dos imagenes y un llamado a una funcion de evento click.
+La misma llama a la funcion que cambia una imagen por otra a traves de un condicional if else.
+Tambien cambié el titulo y el estilo a traves de JavaScript de una manera simple.
+Quise plasmar con ésto los conocimientos arriba mencionados y hacerlos mios.
+Mas adelante iré agregando algunas cosas mas.
